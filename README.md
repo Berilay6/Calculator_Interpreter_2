@@ -72,6 +72,15 @@ sudo apt install swi-prolog
 4. Enter expressions or assign variables as needed.
 5. Type `q` to exit.
 
+### Racket Implementation
+
+1. Ensure Racket is installed.
+2. Run the script using Racket:
+   ```sh
+   racket calculator.rkt
+   ```
+3. Follow the prompts to enter expressions.
+
 ### Prolog Implementation
 
 1. Install SWI-Prolog:
