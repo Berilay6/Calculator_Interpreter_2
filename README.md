@@ -1,5 +1,6 @@
 # Calculator_Interpreter_2
-
+## Owner
+Beril Aydın 231101002
 ## Introduction
 
 This project implements a simple calculator that supports basic arithmetic operations and variable assignments. The calculator is implemented in multiple programming languages, including Ada, Prolog, Perl, Racket, and Rust.
